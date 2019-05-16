@@ -1,0 +1,1 @@
+An Angular 7 marketing application for a packaging company. 
